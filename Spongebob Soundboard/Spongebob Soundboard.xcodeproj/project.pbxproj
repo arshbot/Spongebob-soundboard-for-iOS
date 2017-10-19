@@ -13,6 +13,7 @@
 		C168C10C1F993EA40063D0BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C168C10B1F993EA40063D0BA /* Assets.xcassets */; };
 		C168C10F1F993EA40063D0BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C168C10D1F993EA40063D0BA /* LaunchScreen.storyboard */; };
 		C168C1171F993EF50063D0BA /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C168C1161F993EF50063D0BA /* DataManager.swift */; };
+		C168C1191F9944690063D0BA /* SpongeBob Laugh!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C168C1181F9944680063D0BA /* SpongeBob Laugh!.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C168C10E1F993EA40063D0BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C168C1101F993EA40063D0BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C168C1161F993EF50063D0BA /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		C168C1181F9944680063D0BA /* SpongeBob Laugh!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "SpongeBob Laugh!.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C168C1041F993EA40063D0BA /* AppDelegate.swift */,
 				C168C1061F993EA40063D0BA /* ViewController.swift */,
 				C168C1161F993EF50063D0BA /* DataManager.swift */,
+				C168C1181F9944680063D0BA /* SpongeBob Laugh!.mp3 */,
 				C168C1081F993EA40063D0BA /* Main.storyboard */,
 				C168C10B1F993EA40063D0BA /* Assets.xcassets */,
 				C168C10D1F993EA40063D0BA /* LaunchScreen.storyboard */,
@@ -129,6 +132,7 @@
 				C168C10F1F993EA40063D0BA /* LaunchScreen.storyboard in Resources */,
 				C168C10C1F993EA40063D0BA /* Assets.xcassets in Resources */,
 				C168C10A1F993EA40063D0BA /* Main.storyboard in Resources */,
+				C168C1191F9944690063D0BA /* SpongeBob Laugh!.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
